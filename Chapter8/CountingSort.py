@@ -1,4 +1,4 @@
-#计数排序
+#计数排序 
 #计算元素的个数放入C  用来反向排序
 #
 def countingsort(alist,k):
